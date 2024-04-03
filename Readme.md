@@ -9,3 +9,8 @@ FileScale is a three-tier architecture that incorporates a distributed database 
 ## License
 
 FileScale resources in this repository are released under the [Apache License 2.0](https://github.com/DSLAM-UMD/FileScale/blob/calvin/LICENSE.txt)
+
+## Acknowledgements
+
+This work was supported by the National Science Foundation under grant IIS-1910613.
+
